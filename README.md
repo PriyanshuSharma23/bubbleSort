@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Bubble Sorter
+This was my one of the first attempts to come up with a sorting algorithm of my own, so I decided to visualise it with the help of react
 
 ## Available Scripts
 
